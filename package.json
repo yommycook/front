@@ -1,0 +1,28 @@
+{
+  "name": "yommy-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yommycook/front.git"
+  },
+  "author": "Bonna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yommycook/front/issues"
+  },
+  "homepage": "https://github.com/yommycook/front#readme",
+  "dependencies": {
+    "antd": "^5.4.7",
+    "emotion": "^11.0.0",
+    "next": "^13.4.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
